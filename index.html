@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset= 'utf-8'>
+<link rel="stylesheet" href="index.css">
+<style>
+body{
+	height:100%;
+	width:100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+</style>
+<title> Welcome to schoolHunter</title>
+</head>
+<body>
+	<div align ='center'>
+		<form action='Login.php' method='POST' enctype='multipart/form-data'>
+			Email :  <input type="email" name="Email"><br/>
+			Password :  <input type="password" name="Password"><br/><br/>
+				    <input type="hidden" name="Register">
+			<button type="reset" value="Reset" style="width:auto;">Reset</button>
+			<button type = "submit" value = "Login" style="width:auto;">Submit</button>
+		</form>
+	</div>
+
+	<div align ='center'>
+		<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Register</button>
+		<div id="id01" class="modal">
+  			<form class="modal-content animate" action="Login.php" method='POST' enctype='multipart/form-data'>
+				<div class="imgcontainer">
+      				<span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+    			</div>
+    			<div class="container" align ='center'>
+    				<input type="hidden" name="Register" value = "true">
+      				<label><b>Email: </b></label>
+      				<input type="email" placeholder="Enter Email" name="Email" required>
+      				<br/>
+      				<label><b>Password: </b></label>
+      				<input type="password" placeholder="Enter Password" name="Password" required>
+        			<br/>
+        			<label><b>Gender: </b></label>
+        			<input type="radio" name="Gender" value="M" /> Male
+				<input type="radio" name="Gender" value="F" /> Female
+        			<br/>
+        			<label><b>GRE Verbal: </b></label>
+      				<input type="text" placeholder="Verbal Reasoning" name="GRE_V">
+      				<br/>
+      				<label><b>GRE Quantitative: </b></label>
+      				<input type="text" placeholder="Quantitative Reasoning" name="GRE_Q">
+      				<br/>
+      				<label><b>GRE Analytical Writing: </b></label>
+      				<input type="text" placeholder="Analytical Writing" name="GRE_AW">
+        			<br/>
+        			<label><b>GPA: </b></label>
+      				<input type="text" placeholder="GPA" name="GPA">
+        			<br/>
+        			<label><b>TOEFL: </b></label>
+      				<input type="text" placeholder="TOEFL" name="TOEFL">
+      				<br/>
+      				<button type="submit" style="width:auto;">Register</button>
+      				<button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+    			</div>
+  			</form>
+		</div>
+	<script>
+	document.body.style.backgroundImage = "url('bgi/2.jpg')";
+	// Get the modal
+	var modal = document.getElementById('id01');
+	// When the user clicks anywhere outside of the modal, close it
+	window.onclick = function(event) {
+    	if (event.target == modal) {
+        	modal.style.display = "none";
+    	}
+	}
+	</script>
+	</div>
+</body>
+</html>

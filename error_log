@@ -1,0 +1,198 @@
+[10-Mar-2017 02:17:59 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 21
+[10-Mar-2017 02:19:15 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:19:17 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:20:19 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:20:21 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:20:25 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:21:32 UTC] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:22:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:22:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:23:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:27:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:28:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:28:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:31:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:32:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:35:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:35:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:36:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:36:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:36:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:37:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:38:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:39:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:41:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:42:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:43:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:45:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/schoolhunter/public_html/main.php on line 23
+[10-Mar-2017 02:45:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:45:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 02:57:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 04:21:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 04:21:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 04:23:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[10-Mar-2017 04:47:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 04:51:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 04:52:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 04:54:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 04:54:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 04:54:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 04:56:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 05:20:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 22:04:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 22:04:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[10-Mar-2017 23:29:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 13
+[10-Mar-2017 23:57:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 19
+[11-Mar-2017 00:08:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 19
+[11-Mar-2017 00:35:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 19
+[11-Mar-2017 00:35:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:9) in /home/schoolhunter/public_html/Login.php on line 36
+[11-Mar-2017 00:37:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 36
+[11-Mar-2017 00:39:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:39:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 36
+[11-Mar-2017 00:40:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:40:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 13
+[11-Mar-2017 00:40:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 37
+[11-Mar-2017 00:41:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:41:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 13
+[11-Mar-2017 00:41:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 37
+[11-Mar-2017 00:42:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:2) in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:42:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 13
+[11-Mar-2017 00:43:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:44:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 00:44:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:35) in /home/schoolhunter/public_html/Login.php on line 36
+[11-Mar-2017 00:45:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 00:45:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:35) in /home/schoolhunter/public_html/Login.php on line 36
+[11-Mar-2017 00:46:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 00:46:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:35) in /home/schoolhunter/public_html/Login.php on line 36
+[11-Mar-2017 00:47:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 12
+[11-Mar-2017 00:47:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:36) in /home/schoolhunter/public_html/Login.php on line 37
+[11-Mar-2017 00:48:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 00:48:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/schoolhunter/public_html/Login.php:36) in /home/schoolhunter/public_html/Login.php on line 37
+[11-Mar-2017 00:56:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 00:59:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:00:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:01:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:42:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:47:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:49:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:51:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:51:06 UTC] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 01:51:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:51:58 UTC] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 01:55:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:55:22 UTC] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 01:57:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:58:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:58:13 UTC] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 01:58:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:58:34 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 01:59:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 01:59:54 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 01:59:56 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:00:14 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:00:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:00:18 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:00:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:00:43 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:00:44 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:01:04 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:01:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:01:09 UTC] PHP Fatal error:  Function name must be a string in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 02:02:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:02:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:03:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:03:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:03:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:03:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:03:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:03:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:03:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:04:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:04:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:05:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:05:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:06:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:06:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:11:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:11:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:11:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:11:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:11:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:12:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:12:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:12:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:12:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:13:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:14:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:15:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:15:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:16:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:16:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:16:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:16:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:17:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:17:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:17:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:18:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:18:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:18:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:18:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:19:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:21:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:21:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 23
+[11-Mar-2017 02:21:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:21:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 23
+[11-Mar-2017 02:21:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:21:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 23
+[11-Mar-2017 02:22:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:22:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:24:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:24:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:24:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:24:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:24:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:24:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:28:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:28:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:28:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:28:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:29:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:29:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:31:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:31:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:32:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:32:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/schoolhunter/public_html/main.php on line 24
+[11-Mar-2017 02:32:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:32:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:32:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:33:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:38:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/schoolhunter/public_html/main.php on line 23
+[11-Mar-2017 02:39:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:39:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 02:39:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:40:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:41:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:43:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:46:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:46:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:46:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:47:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:49:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:50:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:50:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:50:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 02:50:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 03:02:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 03:02:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 03:23:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 13
+[11-Mar-2017 03:24:34 UTC] PHP Fatal error:  Call to undefined function recommendation() in /home/schoolhunter/public_html/main.php on line 8
+[11-Mar-2017 03:25:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 11
+[11-Mar-2017 03:26:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 03:27:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 12
+[11-Mar-2017 03:39:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 10
+[11-Mar-2017 05:04:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 05:04:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/main.php on line 3
+[11-Mar-2017 05:05:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 05:21:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
+[11-Mar-2017 16:55:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/schoolhunter/public_html/Login.php on line 11
