@@ -46,47 +46,87 @@
 <head>
     <meta charset= 'utf-8'>
     <title> Welcome to schoolHunter</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="user.css" rel="stylesheet">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </head>
+
 <body>
+<div class="container">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">School Hunter</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/user.php">User</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+</nav>
 
 
 
-<div class="container" align ='center'>
-    <button onclick = "window.location = 'user_edit.php'">Edit</button>
-    <table>
-        <tr>
-            <td>Email</td>
-            <td><?=$email?></td>
-        </tr>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2 offset-md-5">
+            <div class="btn-group-vertical" role="group" aria-label="">
+                <button type="button" class="btn btn-primary" onclick = "window.location = 'user_edit.php'">Edit</button>
+                <button type="button" class="btn btn-danger" onclick = "window.location = 'user_remove.php'"> Delete Account </button>
+            </div>
+        </div>
 
-        <tr>
-            <td>Gender</td>
-            <td><?=$gender?></td>
-        </tr>
+        <div class="col-md-4">
+            <div class="panel panel-primary">
+                <!-- Default panel contents -->
+                <div class="panel-heading">Profile</div>
 
-        <tr>
-            <td>GRE Verval</td>
-            <td><?=$gre_v?></td>
-        </tr>
+                <!-- Table -->
+                <table class="table">
+                    <tr>
+                        <td>Email</td>
+                        <td><?=$email?></td>
+                    </tr>
 
-        <tr>
-            <td>GRE Quantitative</td>
-            <td><?=$gre_q?></td>
-        </tr>
+                    <tr>
+                        <td>Gender</td>
+                        <td><?=$gender?></td>
+                    </tr>
 
-        <tr>
-            <td>GRE Analytical Writing</td>
-            <td><?=$gre_aw?></td>
-        </tr>
+                    <tr>
+                        <td>GRE Verval</td>
+                        <td><?=$gre_v?></td>
+                    </tr>
 
-        <tr>
-            <td>GPA</td>
-            <td><?=$gpa?></td>
-        </tr>
+                    <tr>
+                        <td>GRE Quantitative</td>
+                        <td><?=$gre_q?></td>
+                    </tr>
 
-        <tr>
-            <td>TOEFL</td>
-            <td><?=$toefl?></td>
-        </tr>
-    </table>
+                    <tr>
+                        <td>GRE Analytical Writing</td>
+                        <td><?=$gre_aw?></td>
+                    </tr>
+
+                    <tr>
+                        <td>GPA</td>
+                        <td><?=$gpa?></td>
+                    </tr>
+
+                    <tr>
+                        <td>TOEFL</td>
+                        <td><?=$toefl?></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
 </div>
